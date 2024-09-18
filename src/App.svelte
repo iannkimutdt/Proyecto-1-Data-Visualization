@@ -45,7 +45,7 @@
   <!-- INSTAGRAM -->
   <div class="serie_wrapper" id="serie_Instagram">
     <img class="image_logo" src="./images/instagram_logo.png" alt="Logo Instagram"> 
-    <h4 class="serie_header" style="color:#F15827">Instragram</h4>
+    <h4 class="serie_header" style="color:#F15827">Instagram</h4>
     <div class="donas_container" id="donas_Instagram">  
       {#each serieA as nA}
         <div class="dona_wrapper">
